@@ -1,7 +1,9 @@
 # Gym-Management-System
 I built this Gym Managent Application for a Client using java and MySQL
 if you have Netbeans 8.2 or Higher Version Installed you are good to go....
-but you would need to install certain JAR files Accordingly. ALL THE BEST!!!
+
+ALL THE BEST!!!
+
 
 ## Images
 
